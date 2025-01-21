@@ -49,7 +49,7 @@ const Prashan: Developer = {
     education: {
         degree: "BSc (Hons) Computer Science",
         institution: "University of Plymouth",
-        year: 2023
+        year: 2022
     }
 };
 ```
