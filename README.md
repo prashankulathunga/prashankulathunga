@@ -1,60 +1,86 @@
 # 🌟 Prashan Kulathunga 🌟  
-**Undergraduate | BSc (Hons) Computer Science**  
-📍 Sri Lanka | 🌍 Global Thinker  
+**AI Enthusiast** | **Full Stack Developer** | **Tech Innovator**  
 
 ---
 
-## 🧑‍💻 About Me  
-Hi there! 👋 I’m **Prashan Kulathunga**, a dedicated and enthusiastic Computer Science undergraduate with a knack for solving real-world problems through innovative software solutions. My journey revolves around learning, building, and sharing knowledge in the tech ecosystem. 🚀  
+## 👋 About Me  
 
-I believe in **"Continuous Learning"** and strive to bridge the gap between technology and society. 💡  
-
----
-
-## 🎯 Areas of Focus  
-- **Full Stack Development** 🌐  
-- **Cloud Computing & DevOps** ☁️  
-- **Software Architecture** 🏗️  
-- **AI & Machine Learning** 🤖  
-- **Systems Design** 🛠️  
-
----
-
-## 📚 Current Projects  
-- **Simple POS System**: A robust Point of Sale system designed using **TypeScript** for small to medium businesses.  
-- **[Project Name Placeholder]**: Exploring **Machine Learning** techniques for better insights into data processing.  
+```javascript
+const PrashanKulathunga = {
+  location: "Sri Lanka 🌴",
+  education: "BSc (Hons) Computer Science, University of Plymouth",
+  roles: ["Full Stack Developer", "Cloud Enthusiast", "AI Researcher"],
+  focus: ["Machine Learning 🤖", "Cloud Computing ☁️", "Software Architecture 🛠️"],
+  communities: [
+    { name: "AI Sri Lanka", role: "Member" },
+    { name: "Open Source Contributors", role: "Active Participant" }
+  ],
+  lifePhilosophy: "Innovation through simplicity, learning through challenges 🚀",
+};
+```
 
 ---
 
-## 🛠️ Tech Arsenal  
-### 💻 Core Technologies:  
-`TypeScript` | `Python` | `C++` | `JavaScript`  
+## 🛠️ Tech Expertise  
 
-### 🌐 Web Development:  
-`HTML5` | `CSS3` | `React.js` | `Node.js` | `Tailwind CSS`  
+### 💻 **Core Technologies**  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
-### ☁️ DevOps & Cloud:  
-`AWS` | `Azure` | `Docker` | `Kubernetes`  
+### 🌐 **Web Technologies**  
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-### 📊 Data & AI:  
-`Pandas` | `NumPy` | `TensorFlow` | `Scikit-learn`  
+### ☁️ **Cloud & DevOps**  
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+### 📊 **Data Science & AI**  
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
 ---
 
-## 🌐 Find Me Online  
-- **GitHub**: [github.com/prashankulathunga](https://github.com/prashankulathunga)  
-- **YouTube**: [Prashan Kulathunga](https://www.youtube.com/channel/UCtyxYXf0XveBHBYPA2Io--w)  
-- **TikTok**: [@prashankulathunga](https://www.tiktok.com/@prashankulathunga)  
+## 🏆 Achievements  
+
+- 🚀 **Built scalable web applications** integrating **React** and **Node.js** for real-world use cases.  
+- 🤝 **Contributor** to various **open-source projects**, enhancing the developer community.  
+- 🌟 **Exploring intersections** between AI and software engineering for impactful solutions.  
+- 🛠️ Designed and implemented a **POS system using TypeScript**.  
+- 📊 Developed a **data analytics pipeline** for handling large-scale business datasets.  
 
 ---
 
-## 🌟 Achievements  
-- **Published Projects**: Delivered multiple impactful software solutions.  
-- **Innovative Thinker**: Continuously experimenting with new technologies and methodologies.  
-- **Collaborative Spirit**: Always open to new challenges and team efforts.  
+## 🌐 Online Presence  
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/prashankulathunga)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashankulathunga)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtyxYXf0XveBHBYPA2Io--w)  
+[![TikTok](https://img.shields.io/badge/-TikTok-010101?logo=tiktok&logoColor=white)](https://www.tiktok.com/@prashankulathunga)  
 
 ---
 
-## 💬 Let’s Connect!  
-Have a project in mind? Want to collaborate or just have a tech chat? 🤝 Feel free to reach out!  
-**Email**: [prashan.kulatunge@gmail.com]  
+## 📈 Profile Highlights  
+
+- **GitHub Stars**: 🌟 108+  
+- **Followers**: 🙌 100+  
+- **Projects**: 🚧 Continuously innovating and building impactful solutions.  
+
+---
+
+## 📫 Contact  
+
+📧 **Email**: prashan.kulathunga@example.com  
+🌐 **Portfolio**: [prashankulathunga.dev](https://prashankulathunga.dev)  
+
+---
+
+✨ *Let’s connect and make the tech world better, one line of code at a time!* ✨
