@@ -112,7 +112,7 @@ const Prashan: Developer = {
     <td align="center">
       <h3>Cloud-Native POS System</h3>
       <p>Scalable point-of-sale system with real-time inventory management</p>
-      <p><strong>Tech:</strong> TypeScript, Node.js, PostgreSQL</p>
+      <p><strong>Tech:</strong> TypeScript, Node.js, MongoDB</p>
       <p><a href="#">🔗 Repository</a> | <a href="#">📚 Documentation</a></p>
     </td>
   </tr>
