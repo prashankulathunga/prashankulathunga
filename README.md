@@ -94,4 +94,61 @@ const PrashanKulathunga = {
 
 ---
 
+## 🎨 Animations  
+To make this profile dynamic, add these animations:
+
+1. **Typing Animation for Title**  
+```html
+<h1>
+  <span class="typing-animation">AI Enthusiast | Full Stack Developer | Tech Innovator</span>
+</h1>
+```
+CSS Example:
+```css
+.typing-animation {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  animation: typing 4s steps(30, end), blink 0.5s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+```
+
+2. **Glow Effect for Tech Skills**  
+```css
+.skill-badge:hover {
+  animation: glow 1.5s infinite;
+}
+
+@keyframes glow {
+  0% { box-shadow: 0 0 5px rgba(255, 255, 255, 0.5); }
+  50% { box-shadow: 0 0 15px rgba(255, 255, 255, 1); }
+  100% { box-shadow: 0 0 5px rgba(255, 255, 255, 0.5); }
+}
+```
+
+3. **Fade-in Effect for Sections**  
+```css
+.section {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+```
+
+---
+
 ✨ *Let’s connect and make the tech world better, one line of code at a time!* ✨
