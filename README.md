@@ -31,7 +31,7 @@ interface Developer {
 
 const Prashan: Developer = {
     name: "Prashan Kulathunga",
-    title: "Senior Full Stack Developer & AI Researcher",
+    title: "Full Stack Developer & AI Researcher",
     location: "Sri Lanka 🌴",
     languages: ["TypeScript", "Python", "Java", "C++", "JavaScript"],
     specializations: [
