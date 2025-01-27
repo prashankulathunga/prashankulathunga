@@ -2,7 +2,7 @@
 > *Bridging the gap between innovation and implementation*
 
 **Full Stack Developer** | **AI Researcher** 
-BSc (Hons) in Computer Science, University of Plymouth (2022)
+- BSc (Hons) in Computer Science, University of Plymouth (2022)
 
 ## 🚀 Focus Areas
 - **Full Stack Development** | **Machine Learning** | **Cloud Architecture** | **DevOps**  
