@@ -16,7 +16,7 @@
 ---
 
 ## 💻 **Technical Skills**
-- **Languages:** TypeScript, Python, Java, C++, JavaScript  
+- **Languages:** TypeScript, Python, Java, C#, JavaScript  
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **Cloud & DevOps:** Docker  
