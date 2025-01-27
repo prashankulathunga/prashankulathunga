@@ -23,7 +23,7 @@ BSc (Hons) in Computer Science, University of Plymouth (2022)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Prashan Kulathunga](linkedin.com/in/prashan-kulathunga-673421294)  
+- **LinkedIn:** [Prashan Kulathunga](https://www.linkedin.com/in/prashan-kulathunga-673421294/)  
 - **Email:** [prashan.kulathunga@gmail.com](mailto:prashan.kulathunga@gmail.com) 
 
 ---
