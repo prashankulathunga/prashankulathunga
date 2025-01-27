@@ -10,8 +10,8 @@ BSc (Hons) in Computer Science, University of Plymouth (2022)
 
 ## 💻 Technical Skills
 - **Languages:** TypeScript, Python, Java, C++, JavaScript  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express, Django  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express  
 - **Cloud & DevOps:** Docker  
 - **AI/ML:** TensorFlow, scikit-learn
 
