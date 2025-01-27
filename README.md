@@ -1,7 +1,7 @@
 # Prashan Kulathunga
 > *Bridging the gap between innovation and implementation*
 
-**Full Stack Developer** | **AI Researcher** | **Cloud Architect**  
+**Full Stack Developer** | **AI Researcher** 
 BSc (Hons) in Computer Science, University of Plymouth (2022)
 
 ## 🚀 Focus Areas
