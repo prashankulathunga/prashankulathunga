@@ -45,8 +45,8 @@
 ## 🚀 **Latest Projects**
 
 <div align="center">
-  <a href="https://github.com/prashankulathunga/AI-Analytics-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=AI-Analytics-Platform&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/prashankulathunga/Portfolio.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=Portfolio&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/prashankulathunga/Cloud-POS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=Cloud-POS&theme=tokyonight&hide_border=true">
