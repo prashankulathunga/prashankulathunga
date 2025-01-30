@@ -48,8 +48,8 @@
   <a href="https://github.com/prashankulathunga/Portfolio.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=Portfolio&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/prashankulathunga/Cloud-POS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=Cloud-POS&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/prashankulathunga/GOLD_PRICE_PREDICT-SYSTEM.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=GOLD_PRICE_PREDICT-SYSTEM&theme=tokyonight&hide_border=true">
   </a>
 </div>
 
