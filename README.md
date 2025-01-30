@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **Hi, I'm Prashan!** 👋
+# 🚀 **Hello, I'm Prashan Kulathunga!** 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Researcher;Cloud+Computing+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
@@ -77,9 +77,6 @@
   </a>
   <a href="mailto:prashan.kulathunga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://github.com/prashankulathunga" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
 </div>
 
