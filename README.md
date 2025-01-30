@@ -17,7 +17,7 @@
 
 <br>
 
-- 🎓 Graduated from University of Plymouth
+- 🎓 Undergraduated from University of Plymouth
 - 🔭 Building Next-Gen AI Applications
 - 🌱 Exploring Cloud Architecture & MLOps
 - 👨‍💻 All of my projects are available [Here](https://github.com/prashankulathunga?tab=repositories)
