@@ -10,7 +10,7 @@
 
 ## 🛠️ **About Me**
 
-- 🎓 **Computer Science Graduate** from **University of Plymouth**  
+- 🎓 **Computer Science Undergraduate** from **University of Plymouth**  
 - 🔭 **Building Next-Gen AI Applications**  
 - 🌱 Exploring **Cloud Architecture & MLOps**  
 - 👨‍💻 Check out **[My Projects](https://github.com/prashankulathunga?tab=repositories)**  
