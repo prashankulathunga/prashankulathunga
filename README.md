@@ -2,94 +2,120 @@
   
 # 👨‍💻 PRASHAN KULATHUNGA
 
-[![](https://img.shields.io/badge/-JavaScript%20Developer-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/prashankulathunga)
-[![](https://img.shields.io/badge/-React%20Developer-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/prashankulathunga)
-[![](https://img.shields.io/badge/-Python%20Developer-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://github.com/prashankulathunga)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&height=80&lines=Building+the+Future;AI+%2B+Cloud+%2B+Code;Always+Evolving;Never+Settling" alt="Typing SVG" />
+[![](https://img.shields.io/badge/-JavaScript%20Developer-FF6B6B?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFD93D)](https://github.com/prashankulathunga)
+[![](https://img.shields.io/badge/-React%20Developer-4ECDC4?style=for-the-badge&logo=react&logoColor=000000&labelColor=45B7D1)](https://github.com/prashankulathunga)
+[![](https://img.shields.io/badge/-Python%20Developer-A8E6CF?style=for-the-badge&logo=python&logoColor=000000&labelColor=88D8A3)](https://github.com/prashankulathunga)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=header"/>
 
-## 📊 &nbsp;**METRICS**
+## ⚡ LIVE METRICS & ACHIEVEMENTS
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&count_private=true&hide_border=true&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9&bg_color=0d1117" alt="Prashan's Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&layout=compact&hide_border=true&title_color=6E57F7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117&ring_color=FFD93D&fire_color=FF6B6B&currStreakLabel=4ECDC4&theme=dark&border_radius=20&card_width=400" alt="GitHub Stats" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&layout=compact&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&theme=dark&border_radius=20&card_width=400&langs_count=8" alt="Top Languages" />
 </div>
 
+<div align="center" style="margin: 30px 0;">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashankulathunga&theme=dark&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFD93D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=A8E6CF&border_radius=20" alt="GitHub Streak Stats" />
+</div>
 
-## 👾 &nbsp;**ABOUT ME**
+## 🧠 **GET TO KNOW ME**
+
+<div align="center">
+  <img width="40%" align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+</div>
 
 ```typescript
 const prashan = {
-  role: "Computer Science Undergraduate @ University of Plymouth",
-  focus: ["AI Applications", "Cloud Architecture", "Full Stack Development"],
-  currentlyLearning: ["MLOps", "Serverless Architectures", "React Native"],
+  role: "Computer Science Student at University of Plymouth",
+  focus: ["AI Applications", "Full Stack Development"],
+  currentlyLearning: ["MLOps", "React Native"],
   skills: {
     languages: ["JavaScript", "Python"],
     frontend: ["React", "TailwindCSS"],
     backend: ["Node.js"],
     devOps: ["Docker"],
-    cloud: ["AWS", "GCP"],
+    cloud: ["AWS", "GCP"]
   },
-  funFact: "I debug with console.logs and refuse to admit it",
+  funFact: "Debugs with console.logs and won't apologize for it",
+  motto: "Code, Coffee, Repeat"
 };
 ```
 
-## 🔥 &nbsp;**TECH EXPERTISE**
+## 🔥 **TECH EXPERTISE**
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">Frontend</h3>
+      <td valign="top" width="50%" style="border: none;">
+        <h3 align="center">🎨 Frontend Magic</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
+          <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css&theme=dark" />
+        </div>
+        <div align="center" style="margin-top: 10px;">
+          <img src="https://img.shields.io/badge/Frontend-Wizard-FF6B6B?style=for-the-badge&logo=magic&logoColor=white" />
         </div>
       </td>
-      <td valign="top" width="50%">
-        <h3 align="center">Backend</h3>
+      <td valign="top" width="50%" style="border: none;">
+        <h3 align="center">⚡ Backend Power</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,py" />
+          <img src="https://skillicons.dev/icons?i=nodejs,py,express,flask&theme=dark" />
+        </div>
+        <div align="center" style="margin-top: 10px;">
+          <img src="https://img.shields.io/badge/Backend-Ninja-4ECDC4?style=for-the-badge&logo=server&logoColor=white" />
         </div>
       </td>
     </tr>
     <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">DevOps & Cloud</h3>
+      <td valign="top" width="50%" style="border: none;">
+        <h3 align="center">☁️ DevOps & Cloud</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=docker,aws,gcp,github" />
+          <img src="https://skillicons.dev/icons?i=docker,aws,gcp,github&theme=dark" />
+        </div>
+        <div align="center" style="margin-top: 10px;">
+          <img src="https://img.shields.io/badge/Cloud-Architect-FFD93D?style=for-the-badge&logo=icloud&logoColor=black" />
         </div>
       </td>
-      <td valign="top" width="50%">
-        <h3 align="center">Tools</h3>
+      <td valign="top" width="50%" style="border: none;">
+        <h3 align="center">🛠️ Developer Tools</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=vscode,git,postman" />
+          <img src="https://skillicons.dev/icons?i=vscode,git,postman,figma&theme=dark" />
+        </div>
+        <div align="center" style="margin-top: 10px;">
+          <img src="https://img.shields.io/badge/Tools-Master-A8E6CF?style=for-the-badge&logo=tools&logoColor=black" />
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-## 🤝 &nbsp;**CONNECT**
+## 🤝 **CONNECT & COLLABORATE**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prashan-kulathunga-673421294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:prashan.kulathunga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Drop_a_Line!-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
   </a>&nbsp;
+  <a href="https://github.com/prashankulathunga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me!-FFD93D?style=for-the-badge&logo=github&logoColor=black&labelColor=181717" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=prashankulathunga&style=for-the-badge&color=FF6B6B&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/prashankulathunga?style=for-the-badge&color=4ECDC4&labelColor=0D1117&label=Followers&logo=github" alt="GitHub Followers" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashankulathunga&style=for-the-badge&color=6E57F7" alt="Profile Views" />
+  <img width="60%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=footer"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&height=30&lines=Open+to+collaboration+and+new+opportunities!;Let's+build+something+amazing+together.;Thanks+for+visiting+my+profile!" alt="Footer typing SVG" />
+  <h3>⭐ Star some repositories if you find them interesting!</h3>
 </div>
