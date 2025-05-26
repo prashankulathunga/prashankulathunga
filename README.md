@@ -19,9 +19,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&layout=compact&hide_border=true&title_color=6E57F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=prashankulathunga&theme=discord&no-frame=true&no-bg=true&column=7" />
-</div>
 
 ## 👾 &nbsp;**ABOUT ME**
 
@@ -76,40 +73,6 @@ const prashan = {
   </table>
 </div>
 
-## 🚀 &nbsp;**FEATURED PROJECTS**
-
-<div align="center">
-  <a href="https://github.com/prashankulathunga/Portfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=Portfolio&theme=react&bg_color=0D1117&hide_border=true&icon_color=6E57F7&title_color=6E57F7" />
-  </a>
-  <a href="https://github.com/prashankulathunga/GOLD_PRICE_PREDICT-SYSTEM">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashankulathunga&repo=GOLD_PRICE_PREDICT-SYSTEM&theme=react&bg_color=0D1117&hide_border=true&icon_color=6E57F7&title_color=6E57F7" />
-  </a>
-</div>
-
-## 📈 &nbsp;**ACTIVITY GRAPH**
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashankulathunga&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
-</div>
-
-## ⚙️ &nbsp;**WORKFLOW**
-
-```mermaid
-graph LR
-    A[Plan] -->|Research| B[Design]
-    B -->|Prototype| C[Develop]
-    C -->|Test| D[Deploy]
-    D -->|Monitor| E[Optimize]
-    E -->|Iterate| A
-    
-    style A fill:#6E57F7,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#6E57F7,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#6E57F7,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#6E57F7,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#6E57F7,stroke:#fff,stroke-width:2px,color:#fff
-```
-
 ## 🤝 &nbsp;**CONNECT**
 
 <div align="center">
@@ -119,9 +82,6 @@ graph LR
   <a href="mailto:prashan.kulathunga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
-  <a href="https://github.com/prashankulathunga" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <div align="center">
