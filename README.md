@@ -17,10 +17,6 @@
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&layout=compact&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&theme=dark&border_radius=20&card_width=400&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashankulathunga&theme=dark&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFD93D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=A8E6CF&border_radius=20" alt="GitHub Streak Stats" />
-</div>
-
 ## 🧠 **GET TO KNOW ME**
 
 <div align="center">
@@ -43,53 +39,6 @@ const prashan = {
   motto: "Code, Coffee, Repeat"
 };
 ```
-
-## 🔥 **TECH EXPERTISE**
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td valign="top" width="50%" style="border: none;">
-        <h3 align="center">🎨 Frontend Magic</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css&theme=dark" />
-        </div>
-        <div align="center" style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Frontend-Wizard-FF6B6B?style=for-the-badge&logo=magic&logoColor=white" />
-        </div>
-      </td>
-      <td valign="top" width="50%" style="border: none;">
-        <h3 align="center">⚡ Backend Power</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,py,express,flask&theme=dark" />
-        </div>
-        <div align="center" style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Backend-Ninja-4ECDC4?style=for-the-badge&logo=server&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%" style="border: none;">
-        <h3 align="center">☁️ DevOps & Cloud</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=docker,aws,gcp,github&theme=dark" />
-        </div>
-        <div align="center" style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Cloud-Architect-FFD93D?style=for-the-badge&logo=icloud&logoColor=black" />
-        </div>
-      </td>
-      <td valign="top" width="50%" style="border: none;">
-        <h3 align="center">🛠️ Developer Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=vscode,git,postman,figma&theme=dark" />
-        </div>
-        <div align="center" style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Tools-Master-A8E6CF?style=for-the-badge&logo=tools&logoColor=black" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🤝 **CONNECT & COLLABORATE**
 
