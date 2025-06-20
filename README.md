@@ -15,12 +15,12 @@ Since I'm actively building my skills as a developer, I love to share my project
 
 ## Top Repositories
 
-* [Gold Market Price Predictor](https://github.com/prashankulathunga/portfolio) 
-* [Face Identification Attendance Sys](https://github.com/prashankulathunga/react-task-manager) 
-* [Ecommerse Grocery](https://github.com/prashankulathunga/python-data-analysis) 
-* [Redux Photo Gallery](https://github.com/prashankulathunga/js-algorithms) 
-* [Portfolio](https://github.com/prashankulathunga/ai-projects) 
-* [Room Design Platform](https://github.com/prashankulathunga/fullstack-apps) 
+* [Gold Market Price Predictor](https://github.com/prashankulathunga/GOLD_PRICE_PREDICT-SYSTEM) 
+* [Face Identification Attendance Sys](https://github.com/prashankulathunga/RFIAS) 
+* [Ecommerse Grocery](https://github.com/prashankulathunga/ECOMMERCE-GROCERY) 
+* [Redux Photo Gallery](https://github.com/prashankulathunga/REDUX-PHOTO-GALLERY) 
+* [Portfolio](https://github.com/prashankulathunga/PORTFOLIO-V2) 
+* [Room Design Platform](https://github.com/prashankulathunga/ROOM-DESIGN-PLTFRM) 
 
 ## Want to connect with me?
 
@@ -34,6 +34,6 @@ Since I'm actively building my skills as a developer, I love to share my project
 ## Want to collaborate?
 
 I'm always open to:
-* **Open Source Contributions** 
-* **Project Collaborations** 
-* **Knowledge Sharing** 
+* Open Source Contributions 
+* Project Collaborations 
+* Knowledge Sharing 
