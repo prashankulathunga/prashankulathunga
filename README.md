@@ -1,64 +1,39 @@
-<div align="center">
-  
-# 👨‍💻 PRASHAN KULATHUNGA
-[![](https://img.shields.io/badge/-JavaScript%20Developer-9D4EDD?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F72585)](https://github.com/prashankulathunga)
-[![](https://img.shields.io/badge/-React%20Developer-00F5FF?style=for-the-badge&logo=react&logoColor=000000&labelColor=7209B7)](https://github.com/prashankulathunga)
-[![](https://img.shields.io/badge/-Python%20Developer-B084CC?style=for-the-badge&logo=python&logoColor=000000&labelColor=00BCD4)](https://github.com/prashankulathunga)
-</div>
+# Well, hello there 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,16,19&height=150&section=header"/>
+## Who am I?
 
-## ⚡ LIVE METRICS & ACHIEVEMENTS
-<div align="center">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&ring_color=F72585&fire_color=9D4EDD&currStreakLabel=00F5FF&theme=dark&border_radius=20&card_width=400" alt="GitHub Stats" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&layout=compact&hide_border=true&title_color=9D4EDD&text_color=FFFFFF&bg_color=0D1117&theme=dark&border_radius=20&card_width=400&langs_count=8" alt="Top Languages" />
-</div>
+I'm a passionate Computer Science student at the University of Plymouth with a deep love for technology and innovation. I'm particularly fascinated by AI applications and full-stack development, always eager to explore cutting-edge technologies and build solutions that make a difference.
 
-## 🧠 **GET TO KNOW ME**
-<div align="center">
-  <img width="40%" align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-</div>
+I believe in the power of sharing knowledge and continuous learning. Whether it's through code, collaboration, or conversation, I'm always excited to connect with fellow developers and contribute to the tech community.
 
-```typescript
-const prashan = {
-  role: "Computer Science Student at University of Plymouth",
-  focus: ["AI Applications", "Full Stack Development"],
-  currentlyLearning: ["MLOps", "React Native"],
-  skills: {
-    languages: ["JavaScript", "Python"],
-    frontend: ["React", "TailwindCSS"],
-    backend: ["Node.js"],
-    devOps: ["Docker"],
-    cloud: ["AWS", "GCP"]
-  },
-  funFact: "Debugs with console.logs and won't apologize for it",
-  motto: "Code, Coffee, Repeat"
-};
-```
+Since I'm actively building my skills as a developer, I love to share my projects and code so others can learn from them and build upon them.
 
-## 🤝 **CONNECT & COLLABORATE**
-<div align="center">
-  <a href="https://www.linkedin.com/in/prashan-kulathunga-673421294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:prashan.kulathunga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Line!-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-  </a>&nbsp;
-  <a href="https://github.com/prashankulathunga" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me!-F72585?style=for-the-badge&logo=github&logoColor=black&labelColor=181717" alt="GitHub" />
-  </a>
-</div>
+## My stats
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=prashankulathunga&style=for-the-badge&color=9D4EDD&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/prashankulathunga?style=for-the-badge&color=00F5FF&labelColor=0D1117&label=Followers&logo=github" alt="GitHub Followers" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&&exclude_repo=prashankulathunga&layout=compact&theme=dracula" alt="languages"/>
 
-<div align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+## Top Repositories
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,16,19&height=150&section=footer"/>
+* [Gold Market Price Predictor](https://github.com/prashankulathunga/portfolio) 
+* [Face Identification Attendance Sys](https://github.com/prashankulathunga/react-task-manager) 
+* [Ecommerse Grocery](https://github.com/prashankulathunga/python-data-analysis) 
+* [Redux Photo Gallery](https://github.com/prashankulathunga/js-algorithms) 
+* [Portfolio](https://github.com/prashankulathunga/ai-projects) 
+* [Room Design Platform](https://github.com/prashankulathunga/fullstack-apps) 
 
-<div align="center">
-  <h3>⭐ Star some repositories if you find them interesting!</h3>
+## Want to connect with me?
+
+* [LinkedIn](https://www.linkedin.com/in/prashan-kulathunga-673421294/)
+* [GitHub](https://github.com/prashankulathunga)
+* [Gmail](mailto:prashan.kulathunga@gmail.com)
+* [Instagram](https://www.instagram.com/prashankulathunga/)
+* [Twitter](https://twitter.com/prashankulathunga)
+* [Facebook](https://www.facebook.com/prashankulathunga)
+
+## Want to collaborate?
+
+I'm always open to:
+* **Open Source Contributions** 
+* **Project Collaborations** 
+* **Knowledge Sharing** 
