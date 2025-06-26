@@ -10,8 +10,8 @@ Since I'm actively building my skills as a developer, I love to share my project
 
 ## My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&&exclude_repo=prashankulathunga&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&include_all_commits=true&theme=light" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&&exclude_repo=prashankulathunga&layout=compact&theme=light" alt="languages"/>
 
 ## Top Repositories
 
@@ -36,4 +36,4 @@ Since I'm actively building my skills as a developer, I love to share my project
 I'm always open to:
 * Open Source Contributions 
 * Project Collaborations 
-* Knowledge Sharing 
+* Knowledge Sharing
