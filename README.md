@@ -10,8 +10,8 @@ Since I'm actively building my skills as a developer, I love to share my project
 
 ## My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&include_all_commits=true&theme=storm" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&&exclude_repo=prashankulathunga&layout=compact&theme=storm" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&exclude_repo=prashankulathunga&layout=compact&theme=github_dark" alt="languages"/>
 
 ## Top Repositories
 
