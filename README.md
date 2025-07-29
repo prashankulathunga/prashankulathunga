@@ -9,7 +9,7 @@ A machine learning project predicting future gold prices using time series analy
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -27,16 +27,16 @@ A machine learning project predicting future gold prices using time series analy
 
 #
 
-### 📊 Stats
+### Code Contributions
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&theme=mirage" 
-  alt="Prashan's GitHub stats" 
+  src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=false&theme=gruvbox_light&hide_border=true" 
+  alt="Code Contributions" 
   width="460"
 />
 
 #
 
-#### 💡 Open for Collaboration
+### Open for Collaboration
 
-**I'm open to collaborating on AI/ML, full-stack projects, open source, or sharing knowledge to grow together.**
+I'm open to collaborating on **AI/ML, full-stack projects, open source**, or **sharing knowledge** to grow together.
