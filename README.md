@@ -1,39 +1,47 @@
-# Well, hello there 👋
+**`Digital Craftsman (AI Engineer/Full-Stack Developer/Creator)`**
 
-## Who am I?
+I'm [**prashankulathunga**](https://www.linkedin.com/in/prashankulathunga), an enthusiastic Computer Science undergraduate from the <strong>University of Plymouth</strong>, driven by a deep passion for AI and full-stack development. I'm currently building practical, real-world solutions from the ground up planning, designing, and engineering systems that solve business problems. I also enjoy sharing what I build to help others learn, grow, and innovate in tech.
 
-I'm a passionate Computer Science student at the University of Plymouth with a deep love for technology and innovation. I'm particularly fascinated by AI applications and full-stack development, always eager to explore cutting-edge technologies and build solutions that make a difference.
+Find me [**`prashan.kulatunge@gmail.com`**](mailto:prashan.kulatunge@gmail.com)
 
-I believe in the power of sharing knowledge and continuous learning. Whether it's through code, collaboration, or conversation, I'm always excited to connect with fellow developers and contribute to the tech community.
+Favorite Repository [Gold Market Price Predictor for Pawning Centers](https://github.com/prashankulathunga/gold-price-predictor)  
+A machine learning project predicting future gold prices using time series analysis.
 
-Since I'm actively building my skills as a developer, I love to share my projects and code so others can learn from them and build upon them.
+---
 
-## My stats
+### 🧰 Languages and Tools
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&include_all_commits=true&theme=github_light" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashankulathunga&exclude_repo=prashankulathunga&layout=compact&theme=github_light" alt="languages"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br />
 
-## Top Repositories
+#
 
-* [Gold Market Price Predictor](https://github.com/prashankulathunga/GOLD_PRICE_PREDICT-SYSTEM) 
-* [Face Identification Attendance Sys](https://github.com/prashankulathunga/RFIAS) 
-* [Ecommerse Grocery](https://github.com/prashankulathunga/ECOMMERCE-GROCERY) 
-* [Redux Photo Gallery](https://github.com/prashankulathunga/REDUX-PHOTO-GALLERY) 
-* [Portfolio](https://github.com/prashankulathunga/PORTFOLIO-V2) 
-* [Room Design Platform](https://github.com/prashankulathunga/ROOM-DESIGN-PLTFRM) 
+### 📊 Stats
 
-## Want to connect with me?
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=prashankulathunga&show_icons=true&theme=mirage" 
+  alt="Prashan's GitHub stats" 
+  width="460"
+/>
 
-* [LinkedIn](https://www.linkedin.com/in/prashan-kulathunga-673421294/)
-* [GitHub](https://github.com/prashankulathunga)
-* [Gmail](mailto:prashan.kulathunga@gmail.com)
-* [Instagram](https://www.instagram.com/prashankulathunga/)
-* [Twitter](https://twitter.com/prashankulathunga)
-* [Facebook](https://www.facebook.com/prashankulathunga)
+#
 
-## Want to collaborate?
+### 💡 Open for Collaboration
 
-I'm always open to:
-* Open Source Contributions 
-* Project Collaborations 
-* Knowledge Sharing
+- **`Open Source Contributions`**
+- **`AI/ML Projects`**
+- **`Full-Stack Development`**
+- **`Knowledge Sharing`**
