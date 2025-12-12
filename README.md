@@ -2,7 +2,7 @@
 
 I am **prashankulathunga**, an enthusiastic Computer Science undergraduate from the <strong>University of Plymouth</strong>, driven by a deep passion for AI and full stack development. I'm currently building practical, real world solutions from the ground up planning, designing, and engineering systems that solve business problems. I also enjoy sharing what I build to help others learn, grow, and innovate in tech.
 
-**Find me** [**prashankulathunga**](https://www.linkedin.com/in/prashankulathunga)
+**Find me** [**prashankulathunga.linkedin**](https://www.linkedin.com/in/prashankulathunga)
 
 **Favorite Repo** : [**Gold Market Price Predictor for Pawning Centers**](https://github.com/prashankulathunga/gold-price-predictor)  
 A machine learning system that forecasts future gold prices using time series models, helping pawning centers optimize decision making and reduce business risk.
