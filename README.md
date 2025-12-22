@@ -1,4 +1,4 @@
-#### Software Engineer . ML & AI Practitioner . Full-Stack Problem Solver
+### Software Engineer . ML & AI Practitioner . Full-Stack Problem Solver
 
 I am **prashankulathunga**, an enthusiastic Computer Science undergraduate from the <strong>University of Plymouth</strong>, driven by a deep passion for AI and full stack development. I'm currently building practical, real world solutions from the ground up planning, designing, and engineering systems that solve business problems. I also enjoy sharing what I build to help others learn, grow, and innovate in tech.
 
