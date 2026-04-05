@@ -1,7 +1,7 @@
 <p align="center"><strong>Software Engineer • ML & AI Practitioner • Full-Stack Problem Solver</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashankulathunga">
+  <a href="https://www.linkedin.com/in/prashan-kulathunga-673421294/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
