@@ -4,7 +4,7 @@ I am **prashankulathunga**, an enthusiastic Computer Science undergraduate from 
 
 **Find me** [**prashankulathunga.linkedin**](https://www.linkedin.com/in/prashankulathunga)
 
-**Favorite Repo** : [**Gold Market Price Predictor for Pawning Centers**](https://github.com/prashankulathunga/gold-price-predictor)  
+**Favorite Repo** : [**Gold Market Price Predictor + Pawning Shop Management System**](https://github.com/prashankulathunga/gold-price-predictor)  
 A machine learning system that forecasts future gold prices using time series models, helping pawning centers optimize decision making and reduce business risk.
 #
 
