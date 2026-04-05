@@ -8,7 +8,7 @@
 
 I'm a Computer Science graduated at the **University of Plymouth** focused on building production minded AI and full-stack systems with real business value. I enjoy turning ideas into working products from planning and system design to machine learning, backend engineering, and deployment.
 
-- Building AI-driven solutions for real world business problems
+- Building AI driven solutions for real world business problems
 - Developing scalable full-stack applications and APIs
 - Interested in clean architecture, practical ML, and product focused engineering
 
