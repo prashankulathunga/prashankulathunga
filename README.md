@@ -14,7 +14,7 @@ I'm a Computer Science graduated at the **University of Plymouth** focused on bu
 
 ## Featured Project
 
-### [Gold Market Price Predictor + Pawning Shop Management System](https://github.com/prashankulathunga/gold-price-predictor)
+### [Gold Market Price Predictor + Pawning Shop Management System](https://github.com/prashankulathunga/GOLD_PRICE_PREDICT-SYSTEM)
 A machine learning powered platform that forecasts gold prices using time series models and supports pawning shop operations with smarter, data driven decision making.
 
 ## Tech Stack
