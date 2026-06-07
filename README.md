@@ -1,4 +1,4 @@
-<h3 align="center"><strong>Software Engineer • ML & AI Practitioner • Full-Stack Problem Solver</strong></h3>
+<h3 align="center"><strong>ML Focused Software Engineer</strong></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashan-kulathunga-673421294/">
