@@ -1,4 +1,4 @@
-<p align="center"><strong>Software Engineer • ML & AI Practitioner • Full-Stack Problem Solver</strong></p>
+<h4 align="center"><strong>Software Engineer • ML & AI Practitioner • Full-Stack Problem Solver</strong></h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashan-kulathunga-673421294/">
