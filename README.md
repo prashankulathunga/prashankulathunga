@@ -1,40 +1,27 @@
-<h3 align="center"><strong>ML Focused Software Engineer</strong></h3>
+##  ML Focused Software Engineer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prashan-kulathunga-673421294/">
-    <img 
-    src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="Let's Connect on LinkedIn" 
-  />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashan-kulathunga-673421294/)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![React.js](https://img.shields.io/badge/Library-React.js-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&color=2496ED)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-I'm a Computer Science graduated at the **University of Plymouth** focused on building production minded AI and full-stack systems with real business value. I enjoy turning ideas into working products from planning and system design to machine learning, backend engineering, and deployment.
+I specialize in building practical software solutions that connect machine learning, backend engineering, and full-stack product development. My work is focused on turning real business problems into reliable systems that are useful, scalable, and ready for real-world users.
 
-- Building AI driven solutions for real world business problems
-- Developing scalable full-stack applications and APIs
-- Interested in clean architecture, practical ML, and product focused engineering
+I am a Computer Science graduate from the **University of Plymouth**, with a strong interest in applied AI, clean architecture, data-driven decision systems, and product-focused engineering
 
 ## Featured Project
 
-### [GOLD MARKET PRICE PREDICTOR + PAWNING SHOP MANAGEMENT SYSTEM](https://github.com/prashankulathunga/GOLD_PRICE_PREDICT-SYSTEM)
-A machine learning powered platform that forecasts gold prices using time series models and supports pawning shop operations with smarter, data driven decision making.
-
-## Tech Stack
-
-<p align="left">
-  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="TensorFlow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="NextJs" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
+### [Gold Market Price Predictor + Pawning Shop Management System](https://github.com/prashankulathunga/GOLD_PRICE_PREDICT-SYSTEM)
+A machine learning powered platform that forecasts gold prices using time series models and supports pawning shop operations with smarter, data-driven decision making.
 
 ## Open to Collaboration
 
