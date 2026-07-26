@@ -6,6 +6,12 @@
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
+<div align="center">
+
+`Python` · `TensorFlow` · `TypeScript` · `React` · `Next.Js` · `Node.Js` · `Linux`
+
+</div>
+
 <p align="center">
   I build production ready software at the intersection of
   <strong>machine learning</strong>, <strong>backend engineering</strong> and
