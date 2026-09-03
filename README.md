@@ -31,6 +31,5 @@
   <p>
     <a href="https://linkedin.com/in/prashankulathunga"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:prashankulathunge@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   </p>
 </div>
