@@ -24,7 +24,7 @@ and the services that put a model behind an API. Mostly Python, mostly on Linux.
   </p>
 
    <p>
-    <img src="https://komarev.com/ghpvc/?username=prashankulathunga&style=flat-square&color=0D1117&label=views" />
+    <img src="https://komarev.com/ghpvc/?username=prashankulathunga&style=flat-square&color=3498db&label=profileviews" />
   </p>
 
 </div>
