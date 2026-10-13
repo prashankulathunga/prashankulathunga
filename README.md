@@ -23,8 +23,4 @@ and the services that put a model behind an API. Mostly Python, mostly on Linux.
     <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white" />
   </p>
 
-   <p>
-    <img src="https://komarev.com/ghpvc/?username=prashankulathunga&style=flat-square&color=3498db&label=profileviews" />
-  </p>
-
 </div>
