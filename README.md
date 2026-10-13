@@ -1,13 +1,13 @@
-<div align="center">
+<div align="left">
   <a href="https://github.com/prashankulathunga">
     <img src="./assets/top-img.jpg" alt="Prashan Kulathunga" />
   </a>
 
-  <h3>Software Engineer · ML, Backend</h3>
+  <h3>Software engineer. Machine learning and backend.</h3>
 
   <p>
-    Production-ready software at the intersection of <strong>machine learning</strong> and
-    <strong>backend engineering</strong>.
+    I work on the parts that run in production - data pipelines, training workflows,
+and the services that put a model behind an API. Mostly Python, mostly on Linux.
   </p>
 
   <p>
@@ -24,7 +24,6 @@
   </p>
 
    <p>
-    <img src="https://img.shields.io/badge/Open_to_opportunities-22C55E?style=flat-square&labelColor=0D1117" />
     <img src="https://komarev.com/ghpvc/?username=prashankulathunga&style=flat-square&color=0D1117&label=views" />
   </p>
 
